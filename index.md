@@ -63,5 +63,5 @@ This is a relative link to the [Markdown Examples](examples.md) file in this rep
 - [x] Install VS Code and Extensions
 - [x] Refamiliarize self with Git
 - [x] Create User Page with Markdown
-- [ ] https://github.com/PierreBeur/cse110-lab-0-1/issues/3
+- [x] [Publish site through GitHub Pages](https://github.com/PierreBeur/cse110-lab-0-1/issues/3)
 - [ ] \(Optional) Add an additional task
