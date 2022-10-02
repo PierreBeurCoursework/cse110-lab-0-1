@@ -53,7 +53,7 @@ The answer is not exactly straightforward. The use of the variable `int t` may n
 This site was built using [GitHub Pages](https://pages.github.com/). The helpful VS Code extension [	
 Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) was used to get a better idea of how this markdown file would by rendered by GitHub Pages  while editing.
 
-This is a section link back to the [top of the page](https://github.com/PierreBeur/cse110-lab-0-1/blob/main/index.md#pierres-user-page).
+This is a section link back to the [top of the page](https://pierrebeur.github.io/cse110-lab-0-1/#pierres-user-page).
 
 This is a relative link to the [Markdown Examples](examples.md) file in this repo.
 
