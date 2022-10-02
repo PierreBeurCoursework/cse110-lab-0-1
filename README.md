@@ -1,2 +1,2 @@
 # Pierre's User Page
-My favorite programming language is C.
+The URL to the published site: https://pierrebeur.github.io/cse110-lab-0-1/
